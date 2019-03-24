@@ -1,0 +1,14 @@
+
+<suite name="Weekend">
+  <test name="Vasu">
+    <classes>
+      
+      <class name="com.vasu.testng.BranchCreation"/>
+      
+      <class name="com.vasu.testng.BranchDeletion"/>
+      
+           
+      
+    </classes>
+  </test> 
+</suite> 

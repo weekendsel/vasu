@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Weekend" duration-ms="3152" started-at="2019-03-23T10:54:12Z" finished-at="2019-03-23T10:54:16Z">
+    <groups>
+    </groups>
+    <test name="Vasu" duration-ms="3152" started-at="2019-03-23T10:54:12Z" finished-at="2019-03-23T10:54:16Z">
+      <class name="com.vasu.testng.BranchDeletion">
+        <test-method status="PASS" signature="deletion()[pri:0, instance:com.vasu.testng.BranchDeletion@548a9f61]" name="deletion" duration-ms="2" started-at="2019-03-23T16:24:15Z" finished-at="2019-03-23T16:24:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletion -->
+      </class> <!-- com.vasu.testng.BranchDeletion -->
+      <class name="com.vasu.testng.BranchCreation">
+        <test-method status="PASS" signature="appLaunch()[pri:0, instance:com.vasu.testng.BranchCreation@4f933fd1]" name="appLaunch" is-config="true" duration-ms="4999" started-at="2019-03-23T16:24:07Z" finished-at="2019-03-23T16:24:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLaunch -->
+        <test-method status="PASS" signature="appLogin()[pri:0, instance:com.vasu.testng.BranchCreation@4f933fd1]" name="appLogin" is-config="true" duration-ms="677" started-at="2019-03-23T16:24:12Z" finished-at="2019-03-23T16:24:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLogin -->
+        <test-method status="PASS" signature="branchCreation()[pri:0, instance:com.vasu.testng.BranchCreation@4f933fd1]" name="branchCreation" duration-ms="2259" started-at="2019-03-23T16:24:13Z" finished-at="2019-03-23T16:24:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- branchCreation -->
+        <test-method status="PASS" signature="appLogout()[pri:0, instance:com.vasu.testng.BranchCreation@4f933fd1]" name="appLogout" is-config="true" duration-ms="191" started-at="2019-03-23T16:24:15Z" finished-at="2019-03-23T16:24:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLogout -->
+        <test-method status="PASS" signature="appClose()[pri:0, instance:com.vasu.testng.BranchCreation@4f933fd1]" name="appClose" is-config="true" duration-ms="2057" started-at="2019-03-23T16:24:16Z" finished-at="2019-03-23T16:24:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appClose -->
+      </class> <!-- com.vasu.testng.BranchCreation -->
+    </test> <!-- Vasu -->
+  </suite> <!-- Weekend -->
+</testng-results>
